@@ -1,5 +1,5 @@
 # Socket-Jokenpo [2018]
-Comunicação cliente/servidor
+### Comunicação cliente/servidor
 
 >>> Primeiro alterar os IP nos arquivos cliente.py e servidor.py para o IP da sua Maquina;
 
